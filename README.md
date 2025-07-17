@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/jacck-mcp-reasoner-badge.png)](https://mseep.ai/app/jacck-mcp-reasoner)
+
 # MCP Reasoner
 A reasoning implementation for Claude Desktop that lets you use both Beam Search and Monte Carlo Tree Search (MCTS). tbh this started as a way to see if we could make Claude even better at complex problem-solving... turns out we definitely can.
 
